@@ -24,7 +24,7 @@ hogares en España entre **2002 y 2020**, con un doble enfoque **intrageneracion
 - **EU-SILC** — Eurostat (comparativa europea).
 
 > **Los microdatos NO se incluyen en el repositorio** por sus condiciones de uso.
-> Ver `data/README.md` para las fuentes y cómo obtenerlos.
+> Proximamente se creara un file llamado `data/README.md` para las fuentes y cómo obtenerlos.
 
 ## Metodología (resumen)
 - Ponderación e imputación múltiple de la EFF; deflactado por IPC (INE), base 2020.
