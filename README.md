@@ -1,4 +1,4 @@
-# Household Finances in Spain: Income, Consumption & Wealth
+# Household Finances in Spain: Income, Consumption & Wealth Distribution
 
 > **Estado: en desarrollo (work in progress).** Proyecto personal de investigación.
 > Autor: Pablo Monrocle Arribas.
