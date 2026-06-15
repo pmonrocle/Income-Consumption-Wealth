@@ -47,11 +47,5 @@ hogares en España entre **2002 y 2020**, con un doble enfoque **intrageneracion
 2. Ejecutar los `.do` de `do_files/` en orden.
 3. Compilar los `.tex` de `latex/` con pdfLaTeX.
 
-## Estado / pendiente
-- [ ] Limpiar y documentar los `.do` de Stata
-- [ ] Revisar erratas en tablas (p. ej. P90/P50 consumo 2008; algún decimal suelto)
-- [ ] Unificar idioma de tablas/figuras (mezcla ES/EN)
-- [ ] Pulir formato final de figuras LaTeX
-
 ## Licencia
 Proyecto personal. Todos los derechos reservados © Pablo Monrocle Arribas.
