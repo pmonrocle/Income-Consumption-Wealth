@@ -1,6 +1,7 @@
 # Household Finances in Spain: Income, Consumption & Wealth Distribution
 
-<img width="803" height="739" alt="image" src="https://github.com/user-attachments/assets/d73a1390-8351-44fb-a6dc-70cc60458dd3" />
+<img width="871" height="811" alt="image" src="https://github.com/user-attachments/assets/897fc379-c74f-4358-8ab5-5b5304dbbee0" />
+
 
 
 > **Estado: en desarrollo (work in progress).** Proyecto personal de investigación.
