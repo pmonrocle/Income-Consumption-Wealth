@@ -1,4 +1,6 @@
 # Household Finances in Spain: Income, Consumption & Wealth Distribution
+<img width="859" height="748" alt="image" src="https://github.com/user-attachments/assets/4c694356-33e3-47a7-9c23-4f7cf695e91f" />
+
 
 > **Estado: en desarrollo (work in progress).** Proyecto personal de investigación.
 > Autor: Pablo Monrocle Arribas.
