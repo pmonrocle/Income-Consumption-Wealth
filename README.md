@@ -1,8 +1,15 @@
 # Household Finances in Spain: Income, Consumption & Wealth Distribution
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/9396b4d6-0a05-43b3-950c-daa757d7ae63" width="600" />
-</div>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/9396b4d6-0a05-43b3-950c-daa757d7ae63" width="400" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/e397f101-e36a-4633-8c60-a85b369fe279" width="400" />
+    </td>
+  </tr>
+</table>
 
 
 
