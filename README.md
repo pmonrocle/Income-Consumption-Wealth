@@ -1,6 +1,7 @@
 # Household Finances in Spain: Income, Consumption & Wealth Distribution
 
-<img width="871" height="811" alt="image" src="https://github.com/user-attachments/assets/897fc379-c74f-4358-8ab5-5b5304dbbee0" />
+<img width="824" height="764" alt="image" src="https://github.com/user-attachments/assets/9396b4d6-0a05-43b3-950c-daa757d7ae63" />
+
 
 
 
@@ -39,7 +40,6 @@ hogares en España entre **2002 y 2020**, con un doble enfoque **intrageneracion
 - Cálculos en **Stata 14 MP**; tablas y figuras en **LaTeX**.
 
 ## Estructura del repositorio
-- `latex/`     — Documento, tablas y figuras en LaTeX (.tex)
 - `figures/`   — Gráficos generados (PDF/PNG)
 - `do_files/`  — Scripts de Stata (.do)
 - `output/`    — Resultados intermedios (tablas exportadas, logs)
