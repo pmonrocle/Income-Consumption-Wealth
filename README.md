@@ -50,7 +50,7 @@ hogares en España entre **2002 y 2020**, con un doble enfoque **intrageneracion
   Krueger & Perri (2006).
 - Regresión cuantílica con polinomios de Hermite para persistencia de ingresos
   (Arellano & Bonhomme, 2017) y elasticidad consumo–renta (Basso et al., 2017).
-- Cálculos en **Stata 14**; tablas y figuras en **LaTeX**.
+- Cálculos en **Stata 14** y **Python**; tablas y figuras en **LaTeX**.
 
 ## Estructura del repositorio
 - `figures/`   — Gráficos generados (PDF/PNG)
