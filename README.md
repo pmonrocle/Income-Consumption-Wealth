@@ -6,7 +6,7 @@
       <img src="https://github.com/user-attachments/assets/9396b4d6-0a05-43b3-950c-daa757d7ae63" style="width: 100%; height: auto;" />
     </td>
     <td align="center" style="width: 33.3%; border: none; padding: 5px;">
-      <img src="https://github.com/user-attachments/assets/df9be31f-4c30-421f-ad35-9d3c55369a56" />
+      <img src="https://github.com/user-attachments/assets/b76e9438-284c-4195-aa94-1f74f255b383" />
     </td>
     <td align="center" style="width: 33.3%; border: none; padding: 5px;">
       <img src="https://github.com/user-attachments/assets/ea923d9f-ee0e-408a-894e-dbccff676e3f" style="width: 100%; height: auto;" />
