@@ -1,4 +1,4 @@
-# Household Finances in Spain: Income, Consumption & Wealth Distribution
+# Household Finances in Spain: Income, Consumption & Wealth Distribution from an Intergenerational and Intragenerational focus
 
 <table align="center" style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
