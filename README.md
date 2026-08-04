@@ -39,7 +39,7 @@ hogares en España entre **2002 y 2020**, con un doble enfoque **intrageneracion
 - **Riqueza**: riqueza bruta y neta, líquida e ilíquida; endeudamiento de los hogares
   (ratios deuda/riqueza y deuda/ingreso).
 - **Movilidad social**: dinámica de percentiles para hogares jóvenes (24–34).
-- **Econometría**: regresión cuantílica para la persistencia de ingresos frente a shocks
+- **Micro-econometría**: regresión cuantílica para la persistencia de ingresos frente a shocks
   y elasticidad consumo–renta por riqueza y edad.
 
 ## Datos
