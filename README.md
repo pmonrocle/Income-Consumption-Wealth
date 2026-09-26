@@ -40,7 +40,7 @@ hogares en España entre **2002 y 2020**, con un doble enfoque **intrageneracion
   (ratios deuda/riqueza y deuda/ingreso).
 - **Movilidad social**: dinámica de percentiles para hogares jóvenes (24–34).
 - **Micro-econometría**: regresión cuantílica para la persistencia de ingresos frente a shocks
-  y elasticidad consumo–renta por riqueza y edad.
+  y regresión lineal para elasticidad consumo–renta por riqueza y edad.
 
 ## Datos
 - **EFF** — Encuesta Financiera de las Familias (Banco de España), olas 2002–2020.
